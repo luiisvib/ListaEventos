@@ -16,8 +16,8 @@ Este proyecto Vue.js es una aplicación simple de gestión de eventos que consta
 
 ## Instalación
 
-npm install
-npm run serve
+- npm install
+- npm run serve
 
 ## Tecnologías Utilizadas
  - Vue.js
