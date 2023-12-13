@@ -24,4 +24,4 @@ Este proyecto Vue.js es una aplicación simple de gestión de eventos que consta
  - Vue Router para la navegación
  - Vuex para la gestión del estado de la aplicación
 
-![Imagen no disponible](/ListaEventos/capturas_web/Login.png)
+![Imagen no disponible](ListaEventos/capturas_web/Login.png)
