@@ -14,17 +14,6 @@ Este proyecto Vue.js es una aplicación simple de gestión de eventos que consta
 
 - **Mis Eventos:** En la página de eventos, hay un apartado donde los usuarios pueden ver los eventos a los que han dado like.
 
-## Instalación
-
-1. Clona el repositorio:
-   git clone
-
-2. Instala las dependencias:
-   npm install
-
-3. Inicia la aplicación:
-   npm run serve
-
 ## Tecnologías Utilizadas
  - Vue.js
  - Vue Router para la navegación
